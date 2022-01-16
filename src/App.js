@@ -11,9 +11,9 @@ function App() {
   return (
     <>
       <header className="min-h-screen">
-        <Navbar />
+        {/* <Navbar />
 
-        <Hero />
+        <Hero /> */}
       </header>
 
       <main>
@@ -36,7 +36,7 @@ function App() {
 
 
       <footer>
-        <Footer />
+        {/* <Footer /> */}
       </footer>
     </>
   );
