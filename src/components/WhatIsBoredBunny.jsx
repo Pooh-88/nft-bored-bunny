@@ -21,22 +21,22 @@ const WhatIsBoredBunny = () => {
 
         <Fade right>
         <div className="relative z-999">
-          <h2 className=" text-neutral-50 text-6xl font-semibold">What's Bored Bunny?</h2>
+          <h2 className=" text-neutral-50 text-6xl font-semibold">What's Magic Dog?</h2>
           
           <div className="flex flex-col text-xl text-neutral-200 gap-5 mt-7">
             <div className="flex items-start gap-2">
               <CollectionIcon className='h-[2.5em]' />
-              <p>Bored Bunny is a collection of 4,999 unique 3D well-designed Bunnies united together to get on the Ethereum Blockchain</p>
+              <p>Magic Dog is a collection of 4,999 unique 3D well-designed Bunnies united together to get on the Ethereum Blockchain</p>
             </div>
             <div className="flex items-start gap-2">
               <BeakerIcon className='h-[2.5em]' />
-              <p>Each Bored Bunny is unique and exclusive based on a hundred traits.
+              <p>Each Magic Dog is unique and exclusive based on a hundred traits.
 The objective is to build the strongest community and project around NFTs.</p>
             </div>
           </div>
 
           <p className='text-neutral-200 font-semibold my-7'>
-            Entering into the Bored Bunny Community means joining a family full of investors and nft enthusiasts who believe in the future of Cryptocurrencies and the blockchain technology.
+            Entering into the Magic Dog Community means joining a family full of investors and nft enthusiasts who believe in the future of Cryptocurrencies and the blockchain technology.
           </p>
           <a href='https://discord.com/invite/boredbunny' className=' border-2 border-neutral-50 px-7 py-2 rounded-full text-base font-semibold hover:text-neutral-50 hover:bg-transparent bg-neutral-50 text-zinc-800'>
             Join our Discord

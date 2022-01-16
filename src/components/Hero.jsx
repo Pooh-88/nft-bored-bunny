@@ -15,12 +15,12 @@ export default function Hero() {
                 <div className="mb-5 sm:mb-0 px-2 sm:px-0">
                     <h1 className=" text-4xl md:text-6xl lg:text-8xl font-bold">
                         <CubeTransparentIcon className='h-[.5em] inline-block' />
-                        Welcome to Bored Bunny
+                        Welcome to Magic Dog
                     </h1>
                     <p className=" text-base md:text-lg lg:text-xl mt-8 mb-9 text-zinc-600">
-                        Bored Bunny is a collection of 4999 unique 3D well-designed Bunnies - Sold out in 17 minutes. Floyd Mayweather, DJ Khaled, David Dobrik, Umar Kamani, Chantel Jeffries and many more celebrities have already joined the project.
+                        Magic Dog is a collection of 4999 unique 3D well-designed Bunnies - Sold out in 17 minutes. Floyd Mayweather, DJ Khaled, David Dobrik, Umar Kamani, Chantel Jeffries and many more celebrities have already joined the project.
                     </p>
-                    <a href='https://opensea.io/collection/bored-bunny--nft' className="px-7 py-3 rounded-full text-base font-medium text-neutral-50 bg-gradient-to-r from-cyan-500 to-blue-500 animate-pulse">
+                    <a href='https://opensea.io/collection/' className="px-7 py-3 rounded-full text-base font-medium text-neutral-50 bg-gradient-to-r from-cyan-500 to-blue-500 animate-pulse">
                         Buy on OpenSea
                     </a>
                 </div>

@@ -17,15 +17,21 @@ function App() {
       </header>
 
       <main>
+        <div id="home">
         <WhatIsBoredBunny />
-
+        </div>
+        <div id="benefits">
         <BenefitsAndUtilities />
-
+        </div>
+        <div id="team">
         <Team />
-
+        </div>
+        <div id="roadmap">
         <Roadmap />
-
+        </div>
+        <div id="faq">
         <Faq />
+        </div>
       </main>
 
 

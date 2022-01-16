@@ -55,7 +55,7 @@ const BenefitsAndUtilities = () => {
               Breed your NFT
             </h3>
             <p className='text-zinc-500 font-medium group-hover:ml-2 transition-all duration-500'>
-              Bored Bunny owners can breed their Bunnies to create a 2nd Generation Bunny. Just keep in mind, you'll need a total of 2 Bored Bunny to breed, so hop to it
+              Magic Dog owners can breed their Bunnies to create a 2nd Generation Bunny. Just keep in mind, you'll need a total of 2 Magic Dog to breed, so hop to it
             </p>
           </div>
 
@@ -65,7 +65,7 @@ const BenefitsAndUtilities = () => {
               Our Metaverse
             </h3>
             <p className='text-zinc-500 font-medium group-hover:ml-2 transition-all duration-500'>
-              They will be able to wear their 3D Bored Bunny and join Bored Bunny City, a Private Land on the Metaverse where only our community can have access.
+              They will be able to wear their 3D Magic Dog and join Magic Dog City, a Private Land on the Metaverse where only our community can have access.
             </p>
           </div>
           

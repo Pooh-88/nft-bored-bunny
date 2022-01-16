@@ -15,16 +15,16 @@ const qna = [
     answer: "Our Whitelist is still open, you can check all the info on our discord."
   },
   {
-    question: "How can I buy a Bored Bunny NFT?",
+    question: "How can I buy a Magic Dog NFT?",
     answer: "You will be able to buy only on our website when we launch."
   },
   {
-    question: "Where will I be able to see my Bored Bunny NFT?",
-    answer: "Once you have minted a Bored Bunny NFT, you will be able to see it by connecting your wallet to OpenSea."
+    question: "Where will I be able to see my Magic Dog NFT?",
+    answer: "Once you have minted a Magic Dog NFT, you will be able to see it by connecting your wallet to OpenSea."
   },
   {
-    question: "Why Bored Bunny?",
-    answer: "When you buy a Bored Bunny, you’re not simply buying a simple NFT, you are getting access to a community where benefits and utilities will increase with the time."
+    question: "Why Magic Dog?",
+    answer: "When you buy a Magic Dog, you’re not simply buying a simple NFT, you are getting access to a community where benefits and utilities will increase with the time."
   }
 ]
 
