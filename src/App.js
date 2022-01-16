@@ -17,7 +17,7 @@ function App() {
       </header>
 
       <main>
-        <div id="home">
+        {/* <div id="home">
         <WhatIsBoredBunny />
         </div>
         <div id="benefits">
@@ -31,7 +31,7 @@ function App() {
         </div>
         <div id="faq">
         <Faq />
-        </div>
+        </div> */}
       </main>
 
 
